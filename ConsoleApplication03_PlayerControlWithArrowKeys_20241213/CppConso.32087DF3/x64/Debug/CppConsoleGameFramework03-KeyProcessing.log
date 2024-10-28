@@ -1,0 +1,7 @@
+﻿  ConsoleApplication_ConsoleGame.cpp
+C:\Users\dmytr\Documents\University Projects\C++\Midterm\ConsoleApplication03_PlayerControlWithArrowKeys_20241213\ConsoleApplication_ConsoleGame.cpp(92,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dmytr\Documents\University Projects\C++\Midterm\ConsoleApplication03_PlayerControlWithArrowKeys_20241213\ConsoleApplication_ConsoleGame.cpp(93,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dmytr\Documents\University Projects\C++\Midterm\ConsoleApplication03_PlayerControlWithArrowKeys_20241213\ConsoleApplication_ConsoleGame.cpp(97,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmytr\Documents\University Projects\C++\Midterm\ConsoleApplication03_PlayerControlWithArrowKeys_20241213\ConsoleApplication_ConsoleGame.cpp(97,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmytr\Documents\University Projects\C++\Midterm\ConsoleApplication03_PlayerControlWithArrowKeys_20241213\ConsoleApplication_ConsoleGame.cpp(102,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CppConsoleGameFramework03-KeyProcessing.vcxproj -> C:\Users\dmytr\Documents\University Projects\C++\Midterm\ConsoleApplication03_PlayerControlWithArrowKeys_20241213\x64\Debug\CppConsoleGameFramework03-KeyProcessing.exe
